@@ -1,6 +1,13 @@
 # Cloud Computing Class
 클라우드 컴퓨팅 과제 레파지토리
 
+## HW 01
+  - Python, git 기본기
+  - 영어 기사 읽기
+## HW 02
+영어 기사 읽기
+## HW 03
+영어 기사 읽기
 ## HW 04
   - 아마존 educate 
   - Python Django 실습하기
