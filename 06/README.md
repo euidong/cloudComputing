@@ -1,4 +1,4 @@
-# S3에서 seoul region에서 각 region까지의 latency
+# (S3) seoul region에서 각 region까지의 latency
 
   1. S3에 15개의 가용 region에 bucket을 만든다.
   2. AWS IAM을 이용하여 KEY를 발급받는다.
