@@ -2,4 +2,4 @@
 
 # Python Django tutorial 하기
   - tutorial site <br> https://tutorial.djangogirls.org/ko/
-  - 실습 주소 <br>
+  - 실습 과정 <br> https://github.com/euidong/my-first-blog
