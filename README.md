@@ -2,7 +2,7 @@
 클라우드 컴퓨팅 과제 레파지토리
 
 ## HW 05
-Python DJANGO RESTFRAMEWORK tutorial 
+Python DJANGO RESTFRAMEWORK tutorial 수행하기
 
 ## HW 06
 각 region간의 latency 구하기
