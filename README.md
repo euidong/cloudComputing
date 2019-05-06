@@ -2,8 +2,8 @@
 클라우드 컴퓨팅 과제 레파지토리
 
 ## HW 04
-  - 1. 아마존 educate 
-  - 2. Python Django 실습하기
+  - 아마존 educate 
+  - Python Django 실습하기
 
 ## HW 05
 Python Django RESTFramework tutorial 수행하기
