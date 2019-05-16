@@ -20,3 +20,6 @@ Python Django RESTFramework tutorial 수행하기
 
 ## HW 07
 VPC , EC2, EBS 생성해서 웹서비스 생성해보기
+
+## HW 08
+5gb.txt의 url counting
